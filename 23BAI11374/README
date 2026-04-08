@@ -1,0 +1,45 @@
+# 🔹 Step 2: Enter values one by one
+
+# Program tumse aise poochega 👇
+
+# Enter grid size (e.g. 5):
+
+# 👉 Tum type karo:
+
+# 5
+
+# Enter start x:
+
+# 👉 Type:
+
+# 0
+# Enter start y:
+
+# 👉 Type:
+
+# 0
+# Enter goal x:
+
+# 👉 Type:
+
+# 4
+# Enter goal y:
+
+# 👉 Type:
+
+# 4
+# Enter trap x:
+
+# 👉 Type:
+
+# 3
+# Enter trap y:
+
+# 👉 Type:
+
+# 3
+# Enter number of episodes (e.g. 500):
+
+# 👉 Type:
+
+# 500
